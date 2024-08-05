@@ -3,7 +3,7 @@ import Navigation from './Navigation';
 function Header() {
   return (
     <header>
-      <h1>Your Name</h1>
+      <h1>Jose De Los Santos</h1>
       <Navigation />
     </header>
   );
