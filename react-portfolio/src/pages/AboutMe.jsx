@@ -2,7 +2,7 @@ function AboutMe() {
     return (
       <section>
         <h2>About Me</h2>
-        <img src="../public/linkedin" alt="Jose De Los Santos" />
+        <img src="/linkedin" alt="Jose De Los Santos" />
         <p>
           I'm Jose De Los Santos, a Full Stack Web Developer with a MERN stack specialization, 
           graduated from UNC Coding Academy. With a strong background in IT and healthcare, 
