@@ -9,7 +9,6 @@ This is a single-page application portfolio for a web developer, built with Reac
 - Contact form with validation
 - Downloadable resume and list of proficiencies
 - Responsive design
-- Deployed on Netlify
 
 ## Installation
 
@@ -20,10 +19,6 @@ This is a single-page application portfolio for a web developer, built with Reac
 ## Usage
 
 Navigate through the different sections using the navigation bar. View projects in the Portfolio section, download the resume from the Resume section, and use the Contact form to get in touch.
-
-## Deployed Application
-
-[Link to deployed application]
 
 ## GitHub Repository
 
